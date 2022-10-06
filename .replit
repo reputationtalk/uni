@@ -1,0 +1,4 @@
+language="python"
+audio = true #adds audio
+run = "sh bash.sh"
+run="python main.py"
